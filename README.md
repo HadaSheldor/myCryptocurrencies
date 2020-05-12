@@ -1,5 +1,10 @@
 # myCryptocurrencies
-This project has been submitted as part of of a Full Stack Developer programme  and supports a Single Page Application (SPA).
+
+View here: https://hadasheldor.github.io/myTasksBoard/
+
+
+This project has been submitted as part of of a Full Stack Developer programme.
+The project supports a Single Page Application (SPA).
 Javascript runs in client-side, containing Ajax requests to coingecko API.
 The project's objective is to present an up-to-date information about Cryptocurrencies. 
 Data in homepage includes Cryptocurrency's: Name, Symbol, Image, and Current Price (in USD, EUR, and ILS).            
