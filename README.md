@@ -1,6 +1,6 @@
 # myCryptocurrencies
 
-View here: https://hadasheldor.github.io/myTasksBoard/
+View here: https://hadasheldor.github.io/myCryptocurrencies/
 
 
 This project has been submitted as part of of a Full Stack Developer programme.
